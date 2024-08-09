@@ -8,3 +8,4 @@ dependencies:
   - pytorch
   - torchvision
   - torchaudio
+  - mkl==2024.0
